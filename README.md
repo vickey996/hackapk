@@ -1,11 +1,11 @@
 
-![banner](https://github.com/adi1090x/Just_Files/blob/master/PHA_B.png) <br />
+![banner](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/banner.png) <br />
 
 # Unmaintained!
 
 _An Advanced Tool For Complete Apk-Modding In Termux ..._
 
-**What Can You Do With _'hackapk'_** - Well, You Can...
+### features
  
 - Decompile An Apk
 - Recompile An Apk
@@ -14,40 +14,39 @@ _An Advanced Tool For Complete Apk-Modding In Termux ..._
 - Bind Payload In An Apk
 - And More ...
 
-**How To** : Follow Instructions Below...
+### How to install
 
-First, clone this repository by typing...
+```bash
+# First, clone this repository by typing...
+git clone https://github.com/adi1090x/hackapk.git
 
-```sh
-$ git clone https://github.com/adi1090x/hackapk.git
+# Change to cloned directory
+cd hackapk
+
+# Make script executable
+chmod +x setup
+
+# Run setup to finally install it
+./setup
 ```
 
-And Then, type...
+And... Done, `hackapk` successfully installed in your termux.
 
-```sh
-$ cd hackapk
-$ chmod +x setup
-$ ./setup
-```
-And... Done, _'hackapk'_ successfully installed in your termux.
+**Note:** By Default, `hackapk` only works inside the ***HOME(/data/data/com.termux/files/home)*** directory.
 
-**Note:** By Default, _'hackapk'_ only works inside the _"HOME(/data/data/com.termux/files/home)"_ directory.
+### How to use*
 
-## WorkFlow
-
-Here are some previews...
-
-![preview1](https://github.com/adi1090x/Just_Files/blob/master/PHA_1.png) <br />
-
-![preview2](https://github.com/adi1090x/Just_Files/blob/master/PHA_2.png) <br />
-
-![preview3](https://github.com/adi1090x/Just_Files/blob/master/PHA_3.png) <br />
-
-![preview4](https://github.com/adi1090x/Just_Files/blob/master/PHA_4.png) <br />
-
-**How to use**:
-
-1. After successfully installed, type 'hackapk' to open the program. 
+1. Type `hackapk` to open the program. 
 2. Select right option and go further.
 3. Follow the instructions in option.
 4. And, Done...
+
+### WorkFlow
+
+![preview1](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/preview_1.png) <br />
+
+![preview2](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/preview_2.png) <br />
+
+![preview3](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/preview_3.png) <br />
+
+![preview4](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/preview_4.png) <br />
