@@ -1,5 +1,5 @@
 
-![banner](https://raw.githubusercontent.com/adi1090x/files/master/termux/hackapk/banner.png) <br />
+![banner](https://raw.githubusercontent.com/vickey996/files/master/termux/hackapk/banner.png) <br />
 
 # Unmaintained!
 
@@ -18,7 +18,7 @@ _An Advanced Tool For Complete Apk-Modding In Termux ..._
 
 ```bash
 # First, clone this repository by typing...
-git clone https://github.com/adi1090x/hackapk.git
+git clone https://github.com/vickey996/hackapk.git
 
 # Change to cloned directory
 cd hackapk
